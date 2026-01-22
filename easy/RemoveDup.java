@@ -1,3 +1,5 @@
+package easy;
+
 
 class RemoveDup {
     public class ListNode {

@@ -1,3 +1,5 @@
+package easy;
+
 
 class SameTree {
      public class TreeNode {

@@ -1,3 +1,5 @@
+package easy;
+
 
 class Solution {
     public class TreeNode {
